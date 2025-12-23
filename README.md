@@ -16,6 +16,8 @@
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
 </p>
 
+
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ---
 
 ## 👨‍💻 About Me
