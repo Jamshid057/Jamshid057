@@ -1,18 +1,32 @@
-## Hi there 👋## Hi 👋, I'm Jamshid
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake.svg">
+    <img width="450" alt="github contribution snake" src="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake.svg">
+  </picture>
+</p>
 
-> “Talk is cheap. Show me the code.”  
-> — Linus Torvalds
+<h1 align="center">Hi 👋, I'm Jamshid</h1>
 
-### 🚀 Backend Developer | Linux & Low-level Enthusiast from Uzbekistan 🇺🇿
+<p align="center">
+  <b>Backend Developer from Uzbekistan 🇺🇿</b>
+</p>
 
-I am a passionate backend developer who enjoys working close to the system, 
-writing clean code, and building real-world applications.
+<p align="center">
+  <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
+</p>
 
-- 🔭 Focused on **Backend Development & Systems Programming**
-- 🌱 Currently improving **Python, C, C++**
-- ⚡ Love working with **Linux, Neovim, and CLI tools**
-- 💬 Ask me about **Python, Django, PostgreSQL, C, Linux**
-- 📫 Reach me: **your_email@gmail.com**
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Backend & system-oriented developer
+- 🧠 Working with **Python, C, C++**
+- ⚙️ Experience with **Linux, Docker, Ngrok**
+- 🛠 Daily tools: **Neovim, PyCharm, CLI**
+- 🌐 Basic frontend: **HTML, CSS**
+- 💬 Ask me about **Backend, Linux, low-level programming**
+- 📫 Contact: **irisbayevjamshid2gmail.com**
 
 ---
 
@@ -23,42 +37,51 @@ writing clean code, and building real-world applications.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-### 🛠 Editors & Environment
+### 🛠 Environment & Tools
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jamshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshid057&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid057&layout=compact&theme=dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jamshid057&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid057&layout=compact&theme=dark" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshid057&theme=github-dark)
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/NE0_57)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jamshid-irisbayev-13b48a202/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/Jamshid57)
+<p align="center">
+  <a href="https://t.me/NE0_57">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/jamshid-irisbayev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Jamshid57">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
----
-
-⭐ *If you like my work, consider starring my repositories*
+<p align="center">
+  ⭐ If you like my work, feel free to star my repositories
+</p>
