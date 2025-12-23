@@ -14,8 +14,6 @@ writing clean code, and building real-world applications.
 - 💬 Ask me about **Python, Django, PostgreSQL, C, Linux**
 - 📫 Reach me: **your_email@gmail.com**
 
-- https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667
-
 ---
 
 ## 🧠 Tech Stack
@@ -43,23 +41,23 @@ writing clean code, and building real-world applications.
 
 ## 📊 GitHub Stats
 
-![Jamshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Jamshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshid057&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid057&layout=compact&theme=dark)
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshid057&theme=github-dark)
 
 ---
 
 ## 🌐 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/NE0_57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jamshid-irisbayev-13b48a202/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/Jamshid57)
 
 ---
 
