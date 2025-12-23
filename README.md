@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake.svg">
-    <img width="450" alt="github contribution snake" src="https://raw.githubusercontent.com/Jamshid057/Jamshid057/output/snake.svg">
-  </picture>
-</p>
-
 <h1 align="center">Hi 👋, I'm Jamshid</h1>
 
 <p align="center">
