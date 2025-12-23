@@ -1,81 +1,60 @@
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 👋, I'm Jamshid</h1>
-
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
-  <b>Backend Developer from Uzbekistan 🇺🇿</b>
-</p>
 
-<p align="center">
-  <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
-</p>
-
+- 🔭 Self Employed
+- 💬 Ask me about **Python, Django, SQL, PostgreSQL, Telegram Bot**
+- 📫 How to reach me [**jamshid@example.com**](mailto:jamshid@example.com)
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
----
 
-## 👨‍💻 About Me
+## 🌐 Socials:
 
-- 🔭 Backend & system-oriented developer
-- 🧠 Working with **Python, C, C++**
-- ⚙️ Experience with **Linux, Docker, Ngrok**
-- 🛠 Daily tools: **Neovim, PyCharm, CLI**
-- 🌐 Basic frontend: **HTML, CSS**
-- 💬 Ask me about **Backend, Linux, low-level programming**
-- 📫 Contact: **irisbayevjamshid2gmail.com**
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/NE0_57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamshid-irisbayev/)
+[![Gmail](https://img.shields.io/badge/jamshid@example.com-%230077B5.svg?logo=google&logoColor=white)](mailto:irisbayevjamshid@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Jamshid57/)
 
----
+# 💻 Tech Stack:
 
-## 🧠 Tech Stack
+![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+</br>
 
-### 🖥 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
+</br>
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
+![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
 
-### ⚙️ Backend & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-### 🛠 Environment & Tools
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jamshid057&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid057&layout=compact&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Jamshid057&theme=radical">
+<br/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid057&theme=tokyonight">
+<br/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshid057&theme=tokyonight&hide_border=true" alt="Jamshid">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=Jamshid057&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid057&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+<br/>
 
----
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshid057&theme=github-dark)
-
----
-
-## 🌐 Connect with Me
-
+## 👁️ Number of visits:
 <p align="center">
-  <a href="https://t.me/NE0_57">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/jamshid-irisbayev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/Jamshid57">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, feel free to star my repositories
+   <img src="https://profile-counter.glitch.me/Jamshid057/count.svg"/>
 </p>
