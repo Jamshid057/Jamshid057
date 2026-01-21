@@ -20,7 +20,7 @@
 - 🛠 Daily tools: **Neovim, PyCharm, CLI**
 - 🌐 Basic frontend: **HTML, CSS**
 - 💬 Ask me about **Backend, Linux, low-level programming**
-- 📫 Contact: **irisbayevjamshid2gmail.com**
+- 📫 Contact: **irisbayevjamshid@gmail.com**
 
 ---
 
