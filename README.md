@@ -36,8 +36,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### ⚙️ Backend & DevOps
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### 🛠 Environment & Tools
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
